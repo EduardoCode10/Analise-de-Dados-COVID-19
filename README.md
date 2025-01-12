@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados COVID-19
+# Projeto de Análise de Dados COVID-19 🦠
 
 Este projeto foi desenvolvido para analisar dados globais da COVID-19, incluindo tendências de casos, mortes e vacinação. A análise foi feita em um notebook do Google Colab, com o uso de bibliotecas como Pandas, NumPy, Matplotlib e Seaborn para visualizações e manipulação de dados. O DataFrame utilizado foi retirado do site Kaggle...
 
